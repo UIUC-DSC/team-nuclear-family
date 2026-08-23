@@ -12,7 +12,7 @@ geo_id,county_name,location_factor
 35025,Lea County,1.03
 47117,Marshall County,1.02
 51011,Appomattox County,1.0
-5087,Madison County,1.0
+05087,Madison County,1.0
 22089,St. Charles Parish,1.02
 47063,Hamblen County,1.02
 48009,Archer County,0.95
@@ -26,15 +26,15 @@ geo_id,county_name,location_factor
 31183,Wheeler County,0.99
 21135,Lewis County,1.01
 27051,Grant County,1.05
-1025,Clarke County,0.99
+01025,Clarke County,0.99
 19099,Jasper County,1.005
 28153,Wayne County,0.97
 48101,Cottle County,0.95
 51081,Greensville County,1.0
 48503,Young County,0.95
-1123,Tallapoosa County,0.99
+01123,Tallapoosa County,0.99
 33015,Rockingham County,1.04
-8105,Rio Grande County,0.98
+08105,Rio Grande County,0.98
 19149,Plymouth County,1.005
 36123,Yates County,1.17
 41017,Deschutes County,1.09
@@ -89,7 +89,7 @@ geo_id,county_name,location_factor
 21085,Grayson County,1.01
 48363,Palo Pinto County,0.95
 13149,Heard County,1.02
-1079,Lawrence County,0.99
+01079,Lawrence County,0.99
 20025,Clark County,0.99
 20081,Haskell County,0.99
 22013,Bienville Parish,1.02
@@ -112,7 +112,7 @@ geo_id,county_name,location_factor
 18135,Randolph County,1.01
 27113,Pennington County,1.05
 41021,Gilliam County,1.09
-5009,Boone County,1.0
+05009,Boone County,1.0
 48253,Jones County,0.95
 48185,Grimes County,0.95
 26049,Genesee County,1.0350000000000001
@@ -131,7 +131,7 @@ geo_id,county_name,location_factor
 51125,Nelson County,1.0
 18033,DeKalb County,1.01
 29197,Schuyler County,1.065
-1059,Franklin County,0.99
+01059,Franklin County,0.99
 21041,Carroll County,1.01
 48267,Kimble County,0.95
 46027,Clay County,0.99
@@ -149,7 +149,7 @@ geo_id,county_name,location_factor
 51640,Galax city,1.0
 35037,Quay County,1.03
 48269,King County,0.95
-5073,Lafayette County,1.0
+05073,Lafayette County,1.0
 48451,Tom Green County,0.95
 21031,Butler County,1.01
 56005,Campbell County,0.99
@@ -174,7 +174,7 @@ geo_id,county_name,location_factor
 56009,Converse County,0.99
 26053,Gogebic County,1.0350000000000001
 27005,Becker County,1.05
-1095,Marshall County,0.99
+01095,Marshall County,0.99
 20179,Sheridan County,0.99
 28037,Franklin County,0.97
 19015,Boone County,1.005
@@ -186,7 +186,7 @@ geo_id,county_name,location_factor
 17053,Ford County,1.18
 22035,East Carroll Parish,1.02
 22037,East Feliciana Parish,1.02
-2198,Prince of Wales-Hyder Census Area,
+02198,Prince of Wales-Hyder Census Area,
 48153,Floyd County,0.95
 21151,Madison County,1.01
 51025,Brunswick County,1.0
@@ -196,7 +196,7 @@ geo_id,county_name,location_factor
 48181,Grayson County,0.95
 42059,Greene County,1.085
 20051,Ellis County,0.99
-1105,Perry County,0.99
+01105,Perry County,0.99
 20151,Pratt County,0.99
 21017,Bourbon County,1.01
 47149,Rutherford County,1.02
@@ -204,7 +204,7 @@ geo_id,county_name,location_factor
 40059,Harper County,0.97
 17147,Piatt County,1.18
 48107,Crosby County,0.95
-8009,Baca County,0.98
+08009,Baca County,0.98
 16021,Boundary County,1.02
 39159,Union County,0.99
 39035,Cuyahoga County,0.99
@@ -237,7 +237,7 @@ geo_id,county_name,location_factor
 54081,Raleigh County,1.01
 35005,Chaves County,1.03
 35049,Santa Fe County,1.03
-4023,Santa Cruz County,1.01
+04023,Santa Cruz County,1.01
 31181,Webster County,0.99
 17067,Hancock County,1.18
 46067,Hutchinson County,0.99
@@ -256,11 +256,11 @@ geo_id,county_name,location_factor
 40043,Dewey County,0.97
 37191,Wayne County,0.99
 42123,Warren County,1.085
-5061,Howard County,1.0
+05061,Howard County,1.0
 37059,Davie County,0.99
 37111,McDowell County,0.99
-5099,Nevada County,1.0
-8125,Yuma County,0.98
+05099,Nevada County,1.0
+08125,Yuma County,0.98
 48421,Sherman County,0.95
 48463,Uvalde County,0.95
 39011,Auglaize County,0.99
@@ -272,12 +272,12 @@ geo_id,county_name,location_factor
 42093,Montour County,1.085
 36081,Queens County,1.17
 12121,Suwannee County,0.975
-1111,Randolph County,0.99
+01111,Randolph County,0.99
 37009,Ashe County,0.99
 39089,Licking County,0.99
 51683,Manassas city,1.0
 17071,Henderson County,1.18
-8005,Arapahoe County,0.98
+08005,Arapahoe County,0.98
 21155,Marion County,1.01
 28105,Oktibbeha County,0.97
 24023,Garrett County,1.02
@@ -286,12 +286,12 @@ geo_id,county_name,location_factor
 33013,Merrimack County,1.04
 42133,York County,1.085
 37161,Rutherford County,0.99
-1043,Cullman County,0.99
+01043,Cullman County,0.99
 13097,Douglas County,1.02
 31097,Johnson County,0.99
 46075,Jones County,0.99
 39073,Hocking County,0.99
-1085,Lowndes County,0.99
+01085,Lowndes County,0.99
 13043,Candler County,1.02
 19113,Linn County,1.005
 20005,Atchison County,0.99
@@ -300,13 +300,13 @@ geo_id,county_name,location_factor
 55137,Waushara County,1.03
 29131,Miller County,1.065
 37193,Wilkes County,0.99
-2110,Juneau City and Borough,
+02110,Juneau City and Borough,
 13087,Decatur County,1.02
 18177,Wayne County,1.01
 21009,Barren County,1.01
 31093,Howard County,0.99
 38025,Dunn County,1.01
-6005,Amador County,1.16
+06005,Amador County,1.16
 47049,Fentress County,1.02
 26023,Branch County,1.0350000000000001
 31139,Pierce County,0.99
@@ -358,7 +358,7 @@ geo_id,county_name,location_factor
 42041,Cumberland County,1.085
 42055,Franklin County,1.085
 42079,Luzerne County,1.085
-1113,Russell County,0.99
+01113,Russell County,0.99
 39019,Carroll County,0.99
 48191,Hall County,0.95
 35057,Torrance County,1.03
@@ -375,7 +375,7 @@ geo_id,county_name,location_factor
 27043,Faribault County,1.05
 48161,Freestone County,0.95
 42087,Mifflin County,1.085
-1041,Crenshaw County,0.99
+01041,Crenshaw County,0.99
 51520,Bristol city,1.0
 48399,Runnels County,0.95
 48443,Terrell County,0.95
@@ -404,7 +404,7 @@ geo_id,county_name,location_factor
 54065,Morgan County,1.01
 51165,Rockingham County,1.0
 18183,Whitley County,1.01
-4001,Apache County,1.01
+04001,Apache County,1.01
 29121,Macon County,1.065
 48279,Lamb County,0.95
 20097,Kiowa County,0.99
@@ -430,7 +430,7 @@ geo_id,county_name,location_factor
 21161,Mason County,1.01
 27009,Benton County,1.05
 48129,Donley County,0.95
-1077,Lauderdale County,0.99
+01077,Lauderdale County,0.99
 18045,Fountain County,1.01
 17173,Shelby County,1.18
 17051,Fayette County,1.18
@@ -464,7 +464,7 @@ geo_id,county_name,location_factor
 26159,Van Buren County,1.0350000000000001
 17131,Mercer County,1.18
 28099,Neshoba County,0.97
-1035,Conecuh County,0.99
+01035,Conecuh County,0.99
 18029,Dearborn County,1.01
 28081,Lee County,0.97
 48125,Dickens County,0.95
@@ -475,11 +475,11 @@ geo_id,county_name,location_factor
 31083,Harlan County,0.99
 30075,Powder River County,0.99
 55091,Pepin County,1.03
-1021,Chilton County,0.99
+01021,Chilton County,0.99
 48219,Hockley County,0.95
 13009,Baldwin County,1.02
 37171,Surry County,0.99
-1031,Coffee County,0.99
+01031,Coffee County,0.99
 39149,Shelby County,0.99
 16027,Canyon County,1.02
 55041,Forest County,1.03
@@ -493,7 +493,7 @@ geo_id,county_name,location_factor
 29185,St. Clair County,1.065
 36025,Delaware County,1.17
 29129,Mercer County,1.065
-1051,Elmore County,0.99
+01051,Elmore County,0.99
 39083,Knox County,0.99
 19017,Bremer County,1.005
 48175,Goliad County,0.95
@@ -518,7 +518,7 @@ geo_id,county_name,location_factor
 16053,Jerome County,1.02
 48309,McLennan County,0.95
 19089,Howard County,1.005
-1013,Butler County,0.99
+01013,Butler County,0.99
 46009,Bon Homme County,0.99
 47059,Greene County,1.02
 51183,Sussex County,1.0
@@ -545,12 +545,12 @@ geo_id,county_name,location_factor
 19183,Washington County,1.005
 40051,Grady County,0.97
 54039,Kanawha County,1.01
-1009,Blount County,0.99
+01009,Blount County,0.99
 45065,McCormick County,1.02
 45087,Union County,1.02
 27103,Nicollet County,1.05
 28161,Yalobusha County,0.97
-4003,Cochise County,1.01
+04003,Cochise County,1.01
 28023,Clarke County,0.97
 19125,Marion County,1.005
 51600,Fairfax city,1.0
@@ -562,7 +562,7 @@ geo_id,county_name,location_factor
 46041,Dewey County,0.99
 13077,Coweta County,1.02
 13105,Elbert County,1.02
-1005,Barbour County,0.99
+01005,Barbour County,0.99
 37017,Bladen County,0.99
 48111,Dallam County,0.95
 17167,Sangamon County,1.18
@@ -586,7 +586,7 @@ geo_id,county_name,location_factor
 17095,Knox County,1.18
 30107,Wheatland County,0.99
 45031,Darlington County,1.02
-1053,Escambia County,0.99
+01053,Escambia County,0.99
 13143,Haralson County,1.02
 20001,Allen County,0.99
 55049,Iowa County,1.03
@@ -598,14 +598,14 @@ geo_id,county_name,location_factor
 17019,Champaign County,1.18
 16087,Washington County,1.02
 17045,Edgar County,1.18
-8121,Washington County,0.98
+08121,Washington County,0.98
 39065,Hardin County,0.99
 48423,Smith County,0.95
 40143,Tulsa County,0.97
 40091,McIntosh County,0.97
 48171,Gillespie County,0.95
 26125,Oakland County,1.0350000000000001
-1071,Jackson County,0.99
+01071,Jackson County,0.99
 19123,Mahaska County,1.005
 20045,Douglas County,0.99
 21197,Powell County,1.01
@@ -826,7 +826,7 @@ geo_id,county_name,location_factor
 35031,McKinley County,1.03
 13017,Ben Hill County,1.02
 20159,Rice County,0.99
-1015,Calhoun County,0.99
+01015,Calhoun County,0.99
 21037,Campbell County,1.01
 21057,Cumberland County,1.01
 48195,Hansford County,0.95
@@ -841,27 +841,27 @@ geo_id,county_name,location_factor
 45063,Lexington County,1.02
 24003,Anne Arundel County,1.02
 55039,Fond du Lac County,1.03
-1073,Jefferson County,0.99
-1127,Walker County,0.99
+01073,Jefferson County,0.99
+01127,Walker County,0.99
 29063,DeKalb County,1.065
 13083,Dade County,1.02
 69110,Saipan Municipality,
 17125,Mason County,1.18
 51197,Wythe County,1.0
 13303,Washington County,1.02
-5143,Washington County,1.0
+05143,Washington County,1.0
 47153,Sequatchie County,1.02
 48471,Walker County,0.95
 39157,Tuscarawas County,0.99
-9110,Capitol Planning Region,1.1
-9120,Greater Bridgeport Planning Region,1.1
-9130,Lower Connecticut River Valley Planning Region,1.1
-9140,Naugatuck Valley Planning Region,1.1
-9150,Northeastern Connecticut Planning Region,1.1
-9160,Northwest Hills Planning Region,1.1
-9170,South Central Connecticut Planning Region,1.1
-9180,Southeastern Connecticut Planning Region,1.1
-9190,Western Connecticut Planning Region,1.1
+09110,Capitol Planning Region,1.1
+09120,Greater Bridgeport Planning Region,1.1
+09130,Lower Connecticut River Valley Planning Region,1.1
+09140,Naugatuck Valley Planning Region,1.1
+09150,Northeastern Connecticut Planning Region,1.1
+09160,Northwest Hills Planning Region,1.1
+09170,South Central Connecticut Planning Region,1.1
+09180,Southeastern Connecticut Planning Region,1.1
+09190,Western Connecticut Planning Region,1.1
 48389,Reeves County,0.95
 51155,Pulaski County,1.0
 37179,Union County,0.99
@@ -874,7 +874,7 @@ geo_id,county_name,location_factor
 41065,Wasco County,1.09
 46105,Perkins County,0.99
 19173,Taylor County,1.005
-1129,Washington County,0.99
+01129,Washington County,0.99
 39039,Defiance County,0.99
 51051,Dickenson County,1.0
 51007,Amelia County,1.0
@@ -882,14 +882,14 @@ geo_id,county_name,location_factor
 35029,Luna County,1.03
 56045,Weston County,0.99
 17187,Warren County,1.18
-1089,Madison County,0.99
+01089,Madison County,0.99
 47189,Wilson County,1.02
 48063,Camp County,0.95
 40067,Jefferson County,0.97
 54085,Ritchie County,1.01
 19145,Page County,1.005
 20087,Jefferson County,0.99
-1049,DeKalb County,0.99
+01049,DeKalb County,0.99
 36101,Steuben County,1.17
 42053,Forest County,1.085
 26109,Menominee County,1.0350000000000001
@@ -908,7 +908,7 @@ geo_id,county_name,location_factor
 25013,Hampden County,1.15
 48055,Caldwell County,0.95
 20029,Cloud County,0.99
-1037,Coosa County,0.99
+01037,Coosa County,0.99
 55123,Vernon County,1.03
 48223,Hopkins County,0.95
 36001,Albany County,1.17
@@ -926,7 +926,7 @@ geo_id,county_name,location_factor
 47177,Warren County,1.02
 17023,Clark County,1.18
 21201,Robertson County,1.01
-5051,Garland County,1.0
+05051,Garland County,1.0
 20139,Osage County,0.99
 39155,Trumbull County,0.99
 48333,Mills County,0.95
@@ -956,7 +956,7 @@ geo_id,county_name,location_factor
 18145,Shelby County,1.01
 30091,Sheridan County,0.99
 31063,Frontier County,0.99
-1007,Bibb County,0.99
+01007,Bibb County,0.99
 28075,Lauderdale County,0.97
 27013,Blue Earth County,1.05
 51091,Highland County,1.0
@@ -991,7 +991,7 @@ geo_id,county_name,location_factor
 27139,Scott County,1.05
 39129,Pickaway County,0.99
 51145,Powhatan County,1.0
-8014,Broomfield County,0.98
+08014,Broomfield County,0.98
 47099,Lawrence County,1.02
 21099,Hart County,1.01
 21137,Lincoln County,1.01
@@ -1005,15 +1005,15 @@ geo_id,county_name,location_factor
 29019,Boone County,1.065
 72097,Mayagüez Municipio,
 40015,Caddo County,0.97
-8059,Jefferson County,0.98
+08059,Jefferson County,0.98
 54011,Cabell County,1.01
 48383,Reagan County,0.95
-5141,Van Buren County,1.0
+05141,Van Buren County,1.0
 20035,Cowley County,0.99
-5071,Johnson County,1.0
+05071,Johnson County,1.0
 51045,Craig County,1.0
 48083,Coleman County,0.95
-4017,Navajo County,1.01
+04017,Navajo County,1.01
 28085,Lincoln County,0.97
 48357,Ochiltree County,0.95
 48103,Crane County,0.95
@@ -1037,7 +1037,7 @@ geo_id,county_name,location_factor
 29085,Hickory County,1.065
 29009,Barry County,1.065
 27123,Ramsey County,1.05
-5081,Little River County,1.0
+05081,Little River County,1.0
 28113,Pike County,0.97
 47031,Coffee County,1.02
 48439,Tarrant County,0.95
@@ -1045,12 +1045,12 @@ geo_id,county_name,location_factor
 51169,Scott County,1.0
 13289,Twiggs County,1.02
 39099,Mahoning County,0.99
-1087,Macon County,0.99
+01087,Macon County,0.99
 48437,Swisher County,0.95
 29151,Osage County,1.065
 17089,Kane County,1.18
 45055,Kershaw County,1.02
-8089,Otero County,0.98
+08089,Otero County,0.98
 37183,Wake County,0.99
 39061,Hamilton County,0.99
 34003,Bergen County,1.15
@@ -1058,21 +1058,21 @@ geo_id,county_name,location_factor
 48369,Parmer County,0.95
 40151,Woods County,0.97
 21063,Elliott County,1.01
-8103,Rio Blanco County,0.98
-8087,Morgan County,0.98
+08103,Rio Blanco County,0.98
+08087,Morgan County,0.98
 34023,Middlesex County,1.15
 20191,Sumner County,0.99
 26127,Oceana County,1.0350000000000001
 27065,Kanabec County,1.05
 39007,Ashtabula County,0.99
-1011,Bullock County,0.99
+01011,Bullock County,0.99
 17105,Livingston County,1.18
 39135,Preble County,0.99
 39079,Jackson County,0.99
 25017,Middlesex County,1.15
 48115,Dawson County,0.95
 36069,Ontario County,1.17
-1001,Autauga County,0.99
+01001,Autauga County,0.99
 39049,Franklin County,0.99
 49021,Iron County,1.02
 49039,Sanpete County,1.02
@@ -1144,7 +1144,7 @@ geo_id,county_name,location_factor
 22029,Concordia Parish,1.02
 25009,Essex County,1.15
 46019,Butte County,0.99
-8035,Douglas County,0.98
+08035,Douglas County,0.98
 18095,Madison County,1.01
 40099,Murray County,0.97
 54009,Brooke County,1.01
@@ -1180,8 +1180,8 @@ geo_id,county_name,location_factor
 27101,Murray County,1.05
 44007,Providence County,1.09
 29161,Phelps County,1.065
-8095,Phillips County,0.98
-5013,Calhoun County,1.0
+08095,Phillips County,0.98
+05013,Calhoun County,1.0
 29141,Morgan County,1.065
 39075,Holmes County,0.99
 19143,Osceola County,1.005
@@ -1207,7 +1207,7 @@ geo_id,county_name,location_factor
 48205,Hartley County,0.95
 48249,Jim Wells County,0.95
 19189,Winnebago County,1.005
-1067,Henry County,0.99
+01067,Henry County,0.99
 39175,Wyandot County,0.99
 38085,Sioux County,1.01
 48127,Dimmit County,0.95
@@ -1217,7 +1217,7 @@ geo_id,county_name,location_factor
 13233,Polk County,1.02
 49051,Wasatch County,1.02
 37157,Rockingham County,0.99
-5011,Bradley County,1.0
+05011,Bradley County,1.0
 48193,Hamilton County,0.95
 21067,Fayette County,1.01
 54001,Barbour County,1.01
@@ -1244,7 +1244,7 @@ geo_id,county_name,location_factor
 31123,Morrill County,0.99
 30019,Daniels County,0.99
 40119,Payne County,0.97
-1039,Covington County,0.99
+01039,Covington County,0.99
 18093,Lawrence County,1.01
 20069,Gray County,0.99
 21045,Casey County,1.01
@@ -1258,11 +1258,11 @@ geo_id,county_name,location_factor
 28141,Tishomingo County,0.97
 48105,Crockett County,0.95
 48217,Hill County,0.95
-8075,Logan County,0.98
+08075,Logan County,0.98
 20055,Finney County,0.99
-1099,Monroe County,0.99
+01099,Monroe County,0.99
 29015,Benton County,1.065
-5109,Pike County,1.0
+05109,Pike County,1.0
 29065,Dent County,1.065
 51185,Tazewell County,1.0
 42103,Pike County,1.085
@@ -1291,11 +1291,11 @@ geo_id,county_name,location_factor
 29037,Cass County,1.065
 36027,Dutchess County,1.17
 48477,Washington County,0.95
-8101,Pueblo County,0.98
+08101,Pueblo County,0.98
 29067,Douglas County,1.065
 56017,Hot Springs County,0.99
 26001,Alcona County,1.0350000000000001
-5129,Searcy County,1.0
+05129,Searcy County,1.0
 48305,Lynn County,0.95
 36077,Otsego County,1.17
 49027,Millard County,1.02
@@ -1315,7 +1315,7 @@ geo_id,county_name,location_factor
 48467,Van Zandt County,0.95
 51161,Roanoke County,1.0
 51015,Augusta County,1.0
-2060,Bristol Bay Borough,
+02060,Bristol Bay Borough,
 45041,Florence County,1.02
 30003,Big Horn County,0.99
 42047,Elk County,1.085
@@ -1331,7 +1331,7 @@ geo_id,county_name,location_factor
 48085,Collin County,0.95
 45001,Abbeville County,1.02
 55077,Marquette County,1.03
-4025,Yavapai County,1.01
+04025,Yavapai County,1.01
 42091,Montgomery County,1.085
 16061,Lewis County,1.02
 51720,Norton city,1.0
@@ -1367,7 +1367,7 @@ geo_id,county_name,location_factor
 38001,Adams County,1.01
 42021,Cambria County,1.085
 26093,Livingston County,1.0350000000000001
-8001,Adams County,0.98
+08001,Adams County,0.98
 42069,Lackawanna County,1.085
 40123,Pontotoc County,0.97
 28127,Simpson County,0.97
@@ -1377,7 +1377,7 @@ geo_id,county_name,location_factor
 36119,Westchester County,1.17
 54047,McDowell County,1.01
 54033,Harrison County,1.01
-1117,Shelby County,0.99
+01117,Shelby County,0.99
 35009,Curry County,1.03
 40149,Washita County,0.97
 37135,Orange County,0.99
@@ -1388,7 +1388,7 @@ geo_id,county_name,location_factor
 21013,Bell County,1.01
 27035,Crow Wing County,1.05
 60050,Western District,
-4009,Graham County,1.01
+04009,Graham County,1.01
 30017,Custer County,0.99
 17141,Ogle County,1.18
 38077,Richland County,1.01
@@ -1412,12 +1412,12 @@ geo_id,county_name,location_factor
 13163,Jefferson County,1.02
 55083,Oconto County,1.03
 31065,Furnas County,0.99
-1069,Houston County,0.99
+01069,Houston County,0.99
 40103,Noble County,0.97
 20063,Gove County,0.99
 22077,Pointe Coupee Parish,1.02
 31067,Gage County,0.99
-1115,St. Clair County,0.99
+01115,St. Clair County,0.99
 28123,Scott County,0.97
 18061,Harrison County,1.01
 16017,Bonner County,1.02
@@ -1458,7 +1458,7 @@ geo_id,county_name,location_factor
 37113,Macon County,0.99
 54063,Monroe County,1.01
 18155,Switzerland County,1.01
-1061,Geneva County,0.99
+01061,Geneva County,0.99
 17099,LaSalle County,1.18
 19055,Delaware County,1.005
 20127,Morris County,0.99
@@ -1474,7 +1474,7 @@ geo_id,county_name,location_factor
 21053,Clinton County,1.01
 39063,Hancock County,0.99
 48189,Hale County,0.95
-1027,Clay County,0.99
+01027,Clay County,0.99
 48011,Armstrong County,0.95
 39003,Allen County,0.99
 13189,McDuffie County,1.02
@@ -1503,7 +1503,7 @@ geo_id,county_name,location_factor
 13063,Clayton County,1.02
 18115,Ohio County,1.01
 13073,Columbia County,1.02
-8115,Sedgwick County,0.98
+08115,Sedgwick County,0.98
 30065,Musselshell County,0.99
 42043,Dauphin County,1.085
 46101,Moody County,0.99
@@ -1518,7 +1518,7 @@ geo_id,county_name,location_factor
 20119,Meade County,0.99
 48445,Terry County,0.95
 35021,Harding County,1.03
-1121,Talladega County,0.99
+01121,Talladega County,0.99
 48155,Foard County,0.95
 19021,Buena Vista County,1.005
 19129,Mills County,1.005
@@ -1532,7 +1532,7 @@ geo_id,county_name,location_factor
 37005,Alleghany County,0.99
 51610,Falls Church city,1.0
 39119,Muskingum County,0.99
-8025,Crowley County,0.98
+08025,Crowley County,0.98
 31041,Custer County,0.99
 26017,Bay County,1.0350000000000001
 18083,Knox County,1.01
@@ -1551,7 +1551,7 @@ geo_id,county_name,location_factor
 19073,Greene County,1.005
 21205,Rowan County,1.01
 53071,Walla Walla County,1.08
-5025,Cleveland County,1.0
+05025,Cleveland County,1.0
 48113,Dallas County,0.95
 25025,Suffolk County,1.15
 16051,Jefferson County,1.02
@@ -1569,7 +1569,7 @@ geo_id,county_name,location_factor
 34007,Camden County,1.15
 47165,Sumner County,1.02
 51097,King and Queen County,1.0
-5015,Carroll County,1.0
+05015,Carroll County,1.0
 51820,Waynesboro city,1.0
 47061,Grundy County,1.02
 27057,Hubbard County,1.05
@@ -1607,7 +1607,7 @@ geo_id,county_name,location_factor
 21199,Pulaski County,1.01
 27165,Watonwan County,1.05
 46119,Sully County,0.99
-8031,Denver County,0.98
+08031,Denver County,0.98
 40029,Coal County,0.97
 30011,Carter County,0.99
 48461,Upton County,0.95
@@ -1616,7 +1616,7 @@ geo_id,county_name,location_factor
 11001,District of Columbia,1.02
 27171,Wright County,1.05
 55059,Kenosha County,1.03
-8113,San Miguel County,0.98
+08113,San Miguel County,0.98
 28019,Choctaw County,0.97
 37025,Cabarrus County,0.99
 29225,Webster County,1.065
@@ -1631,8 +1631,8 @@ geo_id,county_name,location_factor
 20183,Smith County,0.99
 28005,Amite County,0.97
 26025,Calhoun County,1.0350000000000001
-1029,Cleburne County,0.99
-8123,Weld County,0.98
+01029,Cleburne County,0.99
+08123,Weld County,0.98
 40009,Beckham County,0.97
 19153,Polk County,1.005
 36085,Richmond County,1.17
@@ -1656,13 +1656,13 @@ geo_id,county_name,location_factor
 37125,Moore County,0.99
 38087,Slope County,1.01
 31071,Garfield County,0.99
-1133,Winston County,0.99
+01133,Winston County,0.99
 28035,Forrest County,0.97
 26065,Ingham County,1.0350000000000001
 20177,Shawnee County,0.99
 46061,Hanson County,0.99
 27061,Itasca County,1.05
-8073,Lincoln County,0.98
+08073,Lincoln County,0.98
 36053,Madison County,1.17
 36115,Washington County,1.17
 18081,Johnson County,1.01
@@ -1672,7 +1672,7 @@ geo_id,county_name,location_factor
 29119,McDonald County,1.065
 31157,Scotts Bluff County,0.99
 35047,San Miguel County,1.03
-1081,Lee County,0.99
+01081,Lee County,0.99
 48367,Parker County,0.95
 27143,Sibley County,1.05
 13293,Upson County,1.02
@@ -1689,16 +1689,16 @@ geo_id,county_name,location_factor
 17155,Putnam County,1.18
 46055,Haakon County,0.99
 47111,Macon County,1.02
-1109,Pike County,0.99
+01109,Pike County,0.99
 16003,Adams County,1.02
 25005,Bristol County,1.15
 42107,Schuylkill County,1.085
 37045,Cleveland County,0.99
-5059,Hot Spring County,1.0
+05059,Hot Spring County,1.0
 24021,Frederick County,1.02
 17169,Schuyler County,1.18
 13081,Crisp County,1.02
-5027,Columbia County,1.0
+05027,Columbia County,1.0
 19043,Clayton County,1.005
 19067,Floyd County,1.005
 46125,Turner County,0.99
@@ -1771,7 +1771,7 @@ geo_id,county_name,location_factor
 30085,Roosevelt County,0.99
 51670,Hopewell city,1.0
 17201,Winnebago County,1.18
-4007,Gila County,1.01
+04007,Gila County,1.01
 24045,Wicomico County,1.02
 21043,Carter County,1.01
 37097,Iredell County,0.99
@@ -1792,8 +1792,8 @@ geo_id,county_name,location_factor
 48411,San Saba County,0.95
 40073,Kingfisher County,0.97
 48247,Jim Hogg County,0.95
-8017,Cheyenne County,0.98
-5113,Polk County,1.0
+08017,Cheyenne County,0.98
+05113,Polk County,1.0
 13193,Macon County,1.02
 18007,Benton County,1.01
 24047,Worcester County,1.02
@@ -1809,7 +1809,7 @@ geo_id,county_name,location_factor
 36015,Chemung County,1.17
 36121,Wyoming County,1.17
 42095,Northampton County,1.085
-1103,Morgan County,0.99
+01103,Morgan County,0.99
 21027,Breckinridge County,1.01
 31113,Logan County,0.99
 31161,Sheridan County,0.99
@@ -1824,7 +1824,7 @@ geo_id,county_name,location_factor
 29107,Lafayette County,1.065
 37195,Wilson County,0.99
 39117,Morrow County,0.99
-5033,Crawford County,1.0
+05033,Crawford County,1.0
 48053,Burnet County,0.95
 48179,Gray County,0.95
 17109,McDonough County,1.18
@@ -1837,22 +1837,22 @@ geo_id,county_name,location_factor
 20023,Cheyenne County,0.99
 19185,Wayne County,1.005
 48165,Gaines County,0.95
-1093,Marion County,0.99
+01093,Marion County,0.99
 37189,Watauga County,0.99
 51770,Roanoke city,1.0
 48317,Martin County,0.95
 29127,Marion County,1.065
 36045,Jefferson County,1.17
 18097,Marion County,1.01
-5115,Pope County,1.0
+05115,Pope County,1.0
 51175,Southampton County,1.0
 36087,Rockland County,1.17
-5089,Marion County,1.0
-8041,El Paso County,0.98
+05089,Marion County,1.0
+08041,El Paso County,0.98
 48475,Ward County,0.95
-8061,Kiowa County,0.98
+08061,Kiowa County,0.98
 48487,Wilbarger County,0.95
-8119,Teller County,0.98
+08119,Teller County,0.98
 29049,Clinton County,1.065
 37127,Nash County,0.99
 51199,York County,1.0
@@ -1864,14 +1864,14 @@ geo_id,county_name,location_factor
 37021,Buncombe County,0.99
 51730,Petersburg city,1.0
 13175,Laurens County,1.02
-5007,Benton County,1.0
+05007,Benton County,1.0
 12083,Marion County,0.975
 34041,Warren County,1.15
 36021,Columbia County,1.17
 51690,Martinsville city,1.0
 29165,Platte County,1.065
 29021,Buchanan County,1.065
-1083,Limestone County,0.99
+01083,Limestone County,0.99
 18065,Henry County,1.01
 31143,Polk County,0.99
 39123,Ottawa County,0.99
@@ -1903,7 +1903,7 @@ geo_id,county_name,location_factor
 37181,Vance County,0.99
 45011,Barnwell County,1.02
 18009,Blackford County,1.01
-1055,Etowah County,0.99
+01055,Etowah County,0.99
 16025,Camas County,1.02
 20155,Reno County,0.99
 40001,Adair County,0.97
@@ -1920,7 +1920,7 @@ geo_id,county_name,location_factor
 37003,Alexander County,0.99
 33005,Cheshire County,1.04
 51101,King William County,1.0
-8055,Huerfano County,0.98
+08055,Huerfano County,0.98
 48255,Karnes County,0.95
 48003,Andrews County,0.95
 39109,Miami County,0.99
@@ -1933,7 +1933,7 @@ geo_id,county_name,location_factor
 18121,Parke County,1.01
 19069,Franklin County,1.005
 13035,Butts County,1.02
-8039,Elbert County,0.98
+08039,Elbert County,0.98
 30083,Richland County,0.99
 48147,Fannin County,0.95
 20043,Doniphan County,0.99
@@ -1956,7 +1956,7 @@ geo_id,county_name,location_factor
 27063,Jackson County,1.05
 27039,Dodge County,1.05
 27047,Freeborn County,1.05
-6009,Calaveras County,1.16
+06009,Calaveras County,1.16
 25001,Barnstable County,1.15
 51119,Middlesex County,1.0
 42065,Jefferson County,1.085
@@ -1980,11 +1980,11 @@ geo_id,county_name,location_factor
 51027,Buchanan County,1.0
 51005,Alleghany County,1.0
 18143,Scott County,1.01
-8099,Prowers County,0.98
+08099,Prowers County,0.98
 48435,Sutton County,0.95
 40101,Muskogee County,0.97
 19005,Allamakee County,1.005
-8071,Las Animas County,0.98
+08071,Las Animas County,0.98
 48299,Llano County,0.95
 48319,Mason County,0.95
 37043,Clay County,0.99
@@ -1994,7 +1994,7 @@ geo_id,county_name,location_factor
 51065,Fluvanna County,1.0
 17097,Lake County,1.18
 13195,Madison County,1.02
-8063,Kit Carson County,0.98
+08063,Kit Carson County,0.98
 36013,Chautauqua County,1.17
 13067,Cobb County,1.02
 26041,Delta County,1.0350000000000001
@@ -2013,10 +2013,10 @@ geo_id,county_name,location_factor
 31001,Adams County,0.99
 27109,Olmsted County,1.05
 34039,Union County,1.15
-1097,Mobile County,0.99
+01097,Mobile County,0.99
 46087,McCook County,0.99
-1057,Fayette County,0.99
-1017,Chambers County,0.99
+01057,Fayette County,0.99
+01017,Chambers County,0.99
 37131,Northampton County,0.99
 21087,Green County,1.01
 18047,Franklin County,1.01
@@ -2055,7 +2055,7 @@ geo_id,county_name,location_factor
 26123,Newaygo County,1.0350000000000001
 41049,Morrow County,1.09
 27153,Todd County,1.05
-5083,Logan County,1.0
+05083,Logan County,1.0
 37109,Lincoln County,0.99
 13045,Carroll County,1.02
 48413,Schleicher County,0.95
@@ -2081,10 +2081,10 @@ geo_id,county_name,location_factor
 55095,Polk County,1.03
 55045,Green County,1.03
 36079,Putnam County,1.17
-8011,Bent County,0.98
+08011,Bent County,0.98
 30089,Sanders County,0.99
 48173,Glasscock County,0.95
-5047,Franklin County,1.0
+05047,Franklin County,1.0
 30037,Golden Valley County,0.99
 37101,Johnston County,0.99
 53005,Benton County,1.08
@@ -2103,13 +2103,13 @@ geo_id,county_name,location_factor
 42071,Lancaster County,1.085
 19013,Black Hawk County,1.005
 39131,Pike County,0.99
-1125,Tuscaloosa County,0.99
+01125,Tuscaloosa County,0.99
 28097,Montgomery County,0.97
 31099,Kearney County,0.99
 31087,Hitchcock County,0.99
 10003,New Castle County,1.07
 51073,Gloucester County,1.0
-5133,Sevier County,1.0
+05133,Sevier County,1.0
 18017,Cass County,1.01
 16077,Power County,1.02
 18015,Carroll County,1.01
